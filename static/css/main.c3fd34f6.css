@@ -1,0 +1,2 @@
+body,html{margin:0;min-height:100vh;padding:0}*{box-sizing:border-box}body{align-items:center;background-color:blue;background-repeat:no-repeat;display:flex;justify-content:center;transition-duration:3s}.App{font-family:sans-serif;text-align:center}.switch{background-color:hsla(0,0%,100%,.4);border-radius:50px;cursor:pointer;display:flex;height:100px;justify-content:flex-start;padding:10px;width:160px}.switch[data-isOn=true]{justify-content:flex-end}.handle{background-color:#fff;border-radius:40px;height:80px;width:80px}
+/*# sourceMappingURL=main.c3fd34f6.css.map*/

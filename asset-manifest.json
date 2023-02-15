@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toodle__react/static/css/main.c3fd34f6.css",
+    "main.js": "/toodle__react/static/js/main.c87f3be2.js",
+    "index.html": "/toodle__react/index.html",
+    "main.c3fd34f6.css.map": "/toodle__react/static/css/main.c3fd34f6.css.map",
+    "main.c87f3be2.js.map": "/toodle__react/static/js/main.c87f3be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fd34f6.css",
+    "static/js/main.c87f3be2.js"
+  ]
+}
